@@ -2,7 +2,7 @@
 
 ## Desafio VOXUS
 
-API foi criada com base no framework laravel usei própria arquitetura do mesmo, mas acrescentei uma camada de negócio (Services) para as regras de negócio deixando assim a controller livre para desepenhar apenas a suas responsabilidades.
+API foi criada com base no framework laravel usei a arquitetura do mesmo, mas acrescentei uma camada de negócio (Services) para as regras de negócio deixando assim a controller livre para desepenhar apenas a suas responsabilidades.
 
 ## Tecnologia utilizadas
 

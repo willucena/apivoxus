@@ -48,7 +48,7 @@ No banco de teste
 
 ### Para executar os testes da API execute o comando no terminal
 
-- vendor/bin/phpunit
+- vendor/bin/phpunit ou só phpunit 
 
 ### Rotas você pode listar via terminal 
 - php artisan route:list

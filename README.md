@@ -9,7 +9,6 @@ API foi criada com base no framework laravel usei própria arquitetura do mesmo,
 - **PHP**
 - **Framework Laravel**
 - **Migrations**
-- **ORM BLADE**
 - **PHPUnit Framework**
 
 ## Como executar o código

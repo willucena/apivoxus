@@ -20,7 +20,7 @@ API foi criada com base no framework laravel usei própria arquitetura do mesmo,
   
 ### Faça o download do projeto 
 
-- git clone https://github.com/apivoxus
+- git clone https://github.com/willucena/apivoxus
 - cd apivoxus
 - cp .env.example .env
 - cp .env .env.testing
